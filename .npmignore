@@ -1,0 +1,10 @@
+.DS_Store
+node_modules
+src
+test
+.git
+.idea
+.vscode
+.gitignore
+jest.config.js
+yarn.lock
